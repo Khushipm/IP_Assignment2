@@ -1,0 +1,143 @@
+body{  
+    /* background-color: #DFF6FF; */
+    text-align: center;
+    margin: 0;
+    background-color: #DFF6FF;
+    font-family: 'Merriweather', serif;
+}
+
+.btn{
+    border-radius: 8%;
+    padding: 9px;
+    background:  #11cdd4;
+    color: antiquewhite;
+    font-size: large;
+    font-family: 'Merriweather', serif;
+}
+
+.top, .mid, .bottom{
+
+    background-color: #DFF6FF;
+    position: relative;
+    margin: 0;
+    padding-top: 60px;
+}
+
+.top-cloud{
+    position: relative;
+    left: 300px;
+    top: 0px;
+}
+
+br{
+    background-color: #11cdd4;;
+}
+
+h1{
+    margin: 40px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color:  #66BFBF;
+    line-height: 2;
+
+}
+
+
+.bottom-cloud{
+    position: absolute;
+
+}
+
+h2{
+    font-family: 'Gideon Roman', cursive;
+    font-size: 2.2rem;
+    color:  #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Gideon Roman', cursive;
+    color: #11999E;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.programmer-img{
+    width: 200px;
+    height: 190px;
+    border-radius: 100%;
+    position: absolute;
+    left: 80px;
+}
+
+a:link{
+    color: #11999E;
+}
+
+
+.code-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skills{
+    width: 50%;
+    margin: auto auto 80px auto ;
+}
+
+.mid{
+    margin-top: 50px;
+}
+
+.skill{
+    margin-left: 70px;
+    row-gap: 30px;
+    column-gap: 50px;
+}
+
+.info-text{
+    text-align: left;
+    margin-top: 0px;
+    margin-left: 30px;
+}
+
+.profile-img{
+    float: left;
+    margin: 30px 30px auto 80px;
+    width: 20%;
+}
+.profile{
+    line-height: 2;
+    margin: auto;
+}
+
+footer{
+   
+    margin-bottom: 0;
+}
+
+footer{
+
+    /* padding: 30px; */
+    margin-bottom: 0;
+}
+
+
+.contactme{
+    position: relative;
+
+padding: 0;
+ margin-top: 0;
+}
+
+
+button{
+    background-color: rgb(95, 220, 216);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-family: 'Merriweather', serif;
+}
